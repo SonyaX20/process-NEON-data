@@ -1,0 +1,3244 @@
+{
+  "uuid": "5a12b0c8-1a54-44c3-9ef8-772761ad9318",
+  "timestamp": "2025-05-03T11:38:03Z",
+  "zipFileName": "NEON_struct-plant",
+  "mimeType": "application/zip",
+  "productCode": "DP1.10098.001",
+  "productName": "Vegetation structure",
+  "siteCodes": [
+    "HARV"
+  ],
+  "startDate": "2014-01-01T00:00:00Z",
+  "endDate": "2023-12-31T23:59:59Z",
+  "packageType": "basic",
+  "documents": [
+    {
+      "fileName": "NEON.DOC.000987vM.pdf",
+      "downloadFileName": null,
+      "type": "application/pdf",
+      "fileSizeBytes": 6517856,
+      "description": "TOS Protocol and Procedure: VST - Measurement of Vegetation Structure",
+      "uri": "https://data.neonscience.org/api/v0/documents/NEON.DOC.000987vM"
+    },
+    {
+      "fileName": "NEON.DOC.001715vD.pdf",
+      "downloadFileName": null,
+      "type": "application/pdf",
+      "fileSizeBytes": 2222971,
+      "description": "TOS Standard Operating Procedure: CAC – Cactus Biomass and Handling",
+      "uri": "https://data.neonscience.org/api/v0/documents/NEON.DOC.001715vD"
+    },
+    {
+      "fileName": "NEON_vegStructure_userGuide_vE.1.pdf",
+      "downloadFileName": null,
+      "type": "application/pdf",
+      "fileSizeBytes": 1294178,
+      "description": "NEON User Guide to the Vegetation Structure Data Product (NEON.DP1.10098.001)",
+      "uri": "https://data.neonscience.org/api/v0/documents/NEON_vegStructure_userGuide_vE.1"
+    },
+    {
+      "fileName": "NEON.QSG.DP1.10098.001v2.pdf",
+      "downloadFileName": null,
+      "type": "application/pdf",
+      "fileSizeBytes": 653497,
+      "description": "Quick Start Guide for Vegetation structure (DP1.10098.001)",
+      "uri": "https://data.neonscience.org/api/v0/documents/quick-start-guides/NEON.QSG.DP1.10098.001v2.pdf"
+    }
+  ],
+  "releases": [
+    {
+      "release": "RELEASE-2025",
+      "generationDate": "2025-01-29T00:07:30Z",
+      "packages": [
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2014-01",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2014-01.basic.20241118T020233Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-01/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2014-01.basic.20241118T020233Z.csv",
+              "fileSizeBytes": 1146,
+              "checksum": "918a14bc61e7d3ae2cc55a7cde632843",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T020233Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-01/NEON.D01.HARV.DP0.10098.001.validation.20241118T020233Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T020233Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-01/NEON.D01.HARV.DP1.10098.001.variables.20241118T020233Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T020233Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-01/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T020233Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2014-01.basic.20241118T020233Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-01/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2014-01.basic.20241118T020233Z.csv",
+              "fileSizeBytes": 60372,
+              "checksum": "adf1d6cbf884208aadb3175bd5d96458",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T020233Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-01/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T020233Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20140113-20140131.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-01/NEON.D01.HARV.DP1.10098.001.EML.20140113-20140131.20250129T000730Z.xml",
+              "fileSizeBytes": 175409,
+              "checksum": "a11c6661805abca8db911ef656eb6a70",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-01/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46637,
+              "checksum": "38d711ffc0f35a5aebe625477409b781",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2014-02",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T145708Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-02/NEON.D01.HARV.DP0.10098.001.validation.20241118T145708Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2014-02.basic.20241118T145708Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-02/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2014-02.basic.20241118T145708Z.csv",
+              "fileSizeBytes": 1158,
+              "checksum": "3980965fd73794dc2ca8f8c8196f0048",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T145708Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-02/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T145708Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T145708Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-02/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T145708Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2014-02.basic.20241118T145708Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-02/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2014-02.basic.20241118T145708Z.csv",
+              "fileSizeBytes": 85027,
+              "checksum": "49e48952cc192d12ff1163a35f7d5982",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20140203-20140212.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-02/NEON.D01.HARV.DP1.10098.001.EML.20140203-20140212.20250129T000730Z.xml",
+              "fileSizeBytes": 175409,
+              "checksum": "86164e884c7b8005f54b317d55ea50e5",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-02/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46637,
+              "checksum": "b3c89ab905ed36884e7eb1187731e6eb",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T145708Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-02/NEON.D01.HARV.DP1.10098.001.variables.20241118T145708Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2014-05",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20140527-20140527.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-05/NEON.D01.HARV.DP1.10098.001.EML.20140527-20140527.20250129T000730Z.xml",
+              "fileSizeBytes": 96786,
+              "checksum": "d9ced475a712080b54783f70491808b5",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T143949Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-05/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T143949Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T143949Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-05/NEON.D01.HARV.DP0.10098.001.validation.20241118T143949Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T143949Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-05/NEON.D01.HARV.DP1.10098.001.variables.20241118T143949Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-05/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46490,
+              "checksum": "225fed27a1e0a28a46457bb39937511d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T143949Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-05/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T143949Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2014-05.basic.20241118T143949Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-05/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2014-05.basic.20241118T143949Z.csv",
+              "fileSizeBytes": 1122,
+              "checksum": "ad88600d8d67a23ce4f1f29f1ad5c666",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2014-07",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T085323Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-07/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T085323Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T085323Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-07/NEON.D01.HARV.DP1.10098.001.variables.20241118T085323Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-07/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46662,
+              "checksum": "5039a2c0a5a0fd346643d4e15ec65221",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T085323Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-07/NEON.D01.HARV.DP0.10098.001.validation.20241118T085323Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2014-07.basic.20241118T085323Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-07/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2014-07.basic.20241118T085323Z.csv",
+              "fileSizeBytes": 3353,
+              "checksum": "15483111ae90d22d9bddaab8a91d0598",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T085323Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-07/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T085323Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20140721-20140731.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-07/NEON.D01.HARV.DP1.10098.001.EML.20140721-20140731.20250129T000730Z.xml",
+              "fileSizeBytes": 133400,
+              "checksum": "f1ae20c1f1d877ba6ca414f1cfc5e0c4",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_non-woody.2014-07.basic.20241118T085323Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-07/NEON.D01.HARV.DP1.10098.001.vst_non-woody.2014-07.basic.20241118T085323Z.csv",
+              "fileSizeBytes": 975777,
+              "checksum": "33de8476963664ca3fe96f6f899c858f",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2014-08",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T043726Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-08/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T043726Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T043726Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-08/NEON.D01.HARV.DP0.10098.001.validation.20241118T043726Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20140801-20140814.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-08/NEON.D01.HARV.DP1.10098.001.EML.20140801-20140814.20250129T000730Z.xml",
+              "fileSizeBytes": 133400,
+              "checksum": "287b990b5544bcec24985f6a8beef6bb",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T043726Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-08/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T043726Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-08/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46662,
+              "checksum": "cd869ba382ee32bb899b6c278bdfe42a",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2014-08.basic.20241118T043726Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-08/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2014-08.basic.20241118T043726Z.csv",
+              "fileSizeBytes": 6302,
+              "checksum": "3289e6097092e8095084db03f6c16015",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_non-woody.2014-08.basic.20241118T043726Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-08/NEON.D01.HARV.DP1.10098.001.vst_non-woody.2014-08.basic.20241118T043726Z.csv",
+              "fileSizeBytes": 144955,
+              "checksum": "67db102f47dc865174ca70d754f5381f",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T043726Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2014-08/NEON.D01.HARV.DP1.10098.001.variables.20241118T043726Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2015-07",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_non-woody.2015-07.basic.20241118T060208Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-07/NEON.D01.HARV.DP1.10098.001.vst_non-woody.2015-07.basic.20241118T060208Z.csv",
+              "fileSizeBytes": 550476,
+              "checksum": "fc8e0a7dbc7b841416250ed305139409",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-07/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46662,
+              "checksum": "cacce903b40d57a29f8c49efeef10be1",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2015-07.basic.20241118T060208Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-07/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2015-07.basic.20241118T060208Z.csv",
+              "fileSizeBytes": 1147,
+              "checksum": "aa9d38e44efae50fe05d2a2f2cfc168a",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T060208Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-07/NEON.D01.HARV.DP0.10098.001.validation.20241118T060208Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20150727-20150730.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-07/NEON.D01.HARV.DP1.10098.001.EML.20150727-20150730.20250129T000730Z.xml",
+              "fileSizeBytes": 133400,
+              "checksum": "48cd4974f863c02472b1b14fd812f920",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T060208Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-07/NEON.D01.HARV.DP1.10098.001.variables.20241118T060208Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T060208Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-07/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T060208Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T060208Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-07/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T060208Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2015-08",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T210713Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-08/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T210713Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T210713Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-08/NEON.D01.HARV.DP0.10098.001.validation.20241118T210713Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-08/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46637,
+              "checksum": "39b2e2d254aa62c9e60e57ac5c220778",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2015-08.basic.20241118T210713Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-08/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2015-08.basic.20241118T210713Z.csv",
+              "fileSizeBytes": 91767,
+              "checksum": "537c6ff1c8ec2b747be42718bdc10d90",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2015-08.basic.20241118T210713Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-08/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2015-08.basic.20241118T210713Z.csv",
+              "fileSizeBytes": 1568,
+              "checksum": "f800c8c89764bcfa260bb2347b3257dd",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20150821-20150827.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-08/NEON.D01.HARV.DP1.10098.001.EML.20150821-20150827.20250129T000730Z.xml",
+              "fileSizeBytes": 175409,
+              "checksum": "49ac162e4499e8e0d5fafe112766fe6a",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T210713Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-08/NEON.D01.HARV.DP1.10098.001.variables.20241118T210713Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T210713Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-08/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T210713Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2015-09",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2015-09.basic.20241118T214635Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-09/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2015-09.basic.20241118T214635Z.csv",
+              "fileSizeBytes": 336611,
+              "checksum": "9b4c0437e7216d97896b4b869f9dbd7d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T214635Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-09/NEON.D01.HARV.DP1.10098.001.variables.20241118T214635Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20150903-20150929.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-09/NEON.D01.HARV.DP1.10098.001.EML.20150903-20150929.20250129T000730Z.xml",
+              "fileSizeBytes": 232660,
+              "checksum": "31b13166ee6b9e51aa1ee5adc1580a2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T214635Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-09/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T214635Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T214635Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-09/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T214635Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2015-09.basic.20241118T214635Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-09/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2015-09.basic.20241118T214635Z.csv",
+              "fileSizeBytes": 5230,
+              "checksum": "d07aa56c07007ea47237d2b1e4dd8eba",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_shrubgroup.2015-09.basic.20241118T214635Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-09/NEON.D01.HARV.DP1.10098.001.vst_shrubgroup.2015-09.basic.20241118T214635Z.csv",
+              "fileSizeBytes": 1261,
+              "checksum": "12fdd1184209ac4413ffba56cfe39601",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-09/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46775,
+              "checksum": "4c562fadc8d55992146bbaccc9e8ba1d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T214635Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-09/NEON.D01.HARV.DP0.10098.001.validation.20241118T214635Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2015-10",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T031346Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-10/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T031346Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T031346Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-10/NEON.D01.HARV.DP0.10098.001.validation.20241118T031346Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2015-10.basic.20241118T031346Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-10/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2015-10.basic.20241118T031346Z.csv",
+              "fileSizeBytes": 6531,
+              "checksum": "8acbcecca977d3fac3a8263fe2552798",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-10/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46637,
+              "checksum": "ca5244dab5ae47e0602a2c7505f753b6",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T031346Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-10/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T031346Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T031346Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-10/NEON.D01.HARV.DP1.10098.001.variables.20241118T031346Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2015-10.basic.20241118T031346Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-10/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2015-10.basic.20241118T031346Z.csv",
+              "fileSizeBytes": 491891,
+              "checksum": "f4962a0fde9e94863a6a8fca16fa3a84",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20151001-20151027.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-10/NEON.D01.HARV.DP1.10098.001.EML.20151001-20151027.20250129T000730Z.xml",
+              "fileSizeBytes": 175411,
+              "checksum": "40201672e62f71ff4db494e613241626",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2015-11",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T033036Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-11/NEON.D01.HARV.DP0.10098.001.validation.20241118T033036Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T033036Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-11/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T033036Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2015-11.basic.20241118T033036Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-11/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2015-11.basic.20241118T033036Z.csv",
+              "fileSizeBytes": 235481,
+              "checksum": "2bbbfde413d51a130538801708427470",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20151103-20151118.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-11/NEON.D01.HARV.DP1.10098.001.EML.20151103-20151118.20250129T000730Z.xml",
+              "fileSizeBytes": 175409,
+              "checksum": "9f319613ce91cd022c45626a65fb34e4",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T033036Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-11/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T033036Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T033036Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-11/NEON.D01.HARV.DP1.10098.001.variables.20241118T033036Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2015-11.basic.20241118T033036Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-11/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2015-11.basic.20241118T033036Z.csv",
+              "fileSizeBytes": 3411,
+              "checksum": "d481b23464eb5b6db45f212d6ae77a30",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2015-11/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46637,
+              "checksum": "71e6e91cabc26ef2c3dcc7d462f5b975",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2016-07",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T134612Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-07/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T134612Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-07/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46809,
+              "checksum": "6317c8d906b15dbfbd34bdf41814a1c2",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2016-07.basic.20241118T134612Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-07/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2016-07.basic.20241118T134612Z.csv",
+              "fileSizeBytes": 6144,
+              "checksum": "bf1583861d5fc40208c442dbd7b9e80d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_non-woody.2016-07.basic.20241118T134612Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-07/NEON.D01.HARV.DP1.10098.001.vst_non-woody.2016-07.basic.20241118T134612Z.csv",
+              "fileSizeBytes": 409443,
+              "checksum": "048b6b4915530b45c036d160bbc86454",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T134612Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-07/NEON.D01.HARV.DP1.10098.001.variables.20241118T134612Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T134612Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-07/NEON.D01.HARV.DP0.10098.001.validation.20241118T134612Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T134612Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-07/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T134612Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2016-07.basic.20241118T134612Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-07/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2016-07.basic.20241118T134612Z.csv",
+              "fileSizeBytes": 285952,
+              "checksum": "9a22af04d9d4941f915ea8c19a158db5",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20160725-20160728.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-07/NEON.D01.HARV.DP1.10098.001.EML.20160725-20160728.20250129T000730Z.xml",
+              "fileSizeBytes": 211903,
+              "checksum": "44d95fda2c46d8e1aeaab95be27bc55d",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2016-08",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_non-woody.2016-08.basic.20241118T204037Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-08/NEON.D01.HARV.DP1.10098.001.vst_non-woody.2016-08.basic.20241118T204037Z.csv",
+              "fileSizeBytes": 120663,
+              "checksum": "5431b1065d817f45874abc47aed78e12",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-08/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46809,
+              "checksum": "95c48ec08e89eb4283aa9d4a798b5aea",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T204037Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-08/NEON.D01.HARV.DP0.10098.001.validation.20241118T204037Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T204037Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-08/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T204037Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T204037Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-08/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T204037Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2016-08.basic.20241118T204037Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-08/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2016-08.basic.20241118T204037Z.csv",
+              "fileSizeBytes": 176530,
+              "checksum": "3f00666aa334e8306764443637feacef",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20160808-20160824.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-08/NEON.D01.HARV.DP1.10098.001.EML.20160808-20160824.20250129T000730Z.xml",
+              "fileSizeBytes": 211901,
+              "checksum": "b72c0f103e1d46f5f91635256fad994e",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2016-08.basic.20241118T204037Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-08/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2016-08.basic.20241118T204037Z.csv",
+              "fileSizeBytes": 2924,
+              "checksum": "e01fb71be5fc7ce600b2e2e81ffa4816",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T204037Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-08/NEON.D01.HARV.DP1.10098.001.variables.20241118T204037Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2016-09",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T193503Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-09/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T193503Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T193503Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-09/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T193503Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T193503Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-09/NEON.D01.HARV.DP1.10098.001.variables.20241118T193503Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-09/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46809,
+              "checksum": "59aa8fa460cf6a136b8c2511905e52a2",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T193503Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-09/NEON.D01.HARV.DP0.10098.001.validation.20241118T193503Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2016-09.basic.20241118T193503Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-09/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2016-09.basic.20241118T193503Z.csv",
+              "fileSizeBytes": 74811,
+              "checksum": "de342684a5948ccf5975f7ee3e883645",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20160926-20160928.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-09/NEON.D01.HARV.DP1.10098.001.EML.20160926-20160928.20250129T000730Z.xml",
+              "fileSizeBytes": 211900,
+              "checksum": "695e62d3aea732cbf6c3bcf71aafcfb1",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2016-09.basic.20241118T193503Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-09/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2016-09.basic.20241118T193503Z.csv",
+              "fileSizeBytes": 1520,
+              "checksum": "ca3258220bfaf03c9f89c325ef096955",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_non-woody.2016-09.basic.20241118T193503Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-09/NEON.D01.HARV.DP1.10098.001.vst_non-woody.2016-09.basic.20241118T193503Z.csv",
+              "fileSizeBytes": 6172,
+              "checksum": "421166b92750424b20719eb80ac93ea5",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2016-10",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_non-woody.2016-10.basic.20241118T202033Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-10/NEON.D01.HARV.DP1.10098.001.vst_non-woody.2016-10.basic.20241118T202033Z.csv",
+              "fileSizeBytes": 26251,
+              "checksum": "eefd35456995f55dc16c4963ddb013b4",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T202033Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-10/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T202033Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2016-10.basic.20241118T202033Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-10/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2016-10.basic.20241118T202033Z.csv",
+              "fileSizeBytes": 1495,
+              "checksum": "719cfef3643176413922f87ef99f502b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-10/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46809,
+              "checksum": "f359fb274f12850e48d5fb04aa5f0d87",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T202033Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-10/NEON.D01.HARV.DP1.10098.001.variables.20241118T202033Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T202033Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-10/NEON.D01.HARV.DP0.10098.001.validation.20241118T202033Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T202033Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-10/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T202033Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2016-10.basic.20241118T202033Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-10/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2016-10.basic.20241118T202033Z.csv",
+              "fileSizeBytes": 379713,
+              "checksum": "3936c9659b12c3400ab22906cc8aea60",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20161004-20161025.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2016-10/NEON.D01.HARV.DP1.10098.001.EML.20161004-20161025.20250129T000730Z.xml",
+              "fileSizeBytes": 211901,
+              "checksum": "9d42c9a8767ccfcce4d6a949917a9cff",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2017-07",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T014845Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-07/NEON.D01.HARV.DP0.10098.001.validation.20241118T014845Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20170710-20170717.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-07/NEON.D01.HARV.DP1.10098.001.EML.20170710-20170717.20250129T000730Z.xml",
+              "fileSizeBytes": 211904,
+              "checksum": "4cb11994a41895c2f080c7050f0eda3e",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T014845Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-07/NEON.D01.HARV.DP1.10098.001.variables.20241118T014845Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T014845Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-07/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T014845Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_non-woody.2017-07.basic.20241118T014845Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-07/NEON.D01.HARV.DP1.10098.001.vst_non-woody.2017-07.basic.20241118T014845Z.csv",
+              "fileSizeBytes": 372373,
+              "checksum": "b5e77766c12c604b05a1079a2a013558",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2017-07.basic.20241118T014845Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-07/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2017-07.basic.20241118T014845Z.csv",
+              "fileSizeBytes": 8607,
+              "checksum": "502d05a4ffc3d45555b9ea5825daf4e5",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2017-07.basic.20241118T014845Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-07/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2017-07.basic.20241118T014845Z.csv",
+              "fileSizeBytes": 362512,
+              "checksum": "d13a7ee5e29ffd54fc7458d50b051e78",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T014845Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-07/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T014845Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-07/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46809,
+              "checksum": "9faee50bc0149bff329254eb488b5e30",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2017-08",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-08/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46479,
+              "checksum": "23bade574560c7546cfada429f78d8bd",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T183622Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-08/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T183622Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T183622Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-08/NEON.D01.HARV.DP1.10098.001.variables.20241118T183622Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2017-08.basic.20241118T183622Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-08/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2017-08.basic.20241118T183622Z.csv",
+              "fileSizeBytes": 239715,
+              "checksum": "e3feab6a26a7e6da7d7579b5a65cdd97",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T183622Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-08/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T183622Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T183622Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-08/NEON.D01.HARV.DP0.10098.001.validation.20241118T183622Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20170815-20170831.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-08/NEON.D01.HARV.DP1.10098.001.EML.20170815-20170831.20250129T000730Z.xml",
+              "fileSizeBytes": 126095,
+              "checksum": "f5d05de3ea4ba3e800901c025305cb84",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2017-09",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T215925Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-09/NEON.D01.HARV.DP0.10098.001.validation.20241118T215925Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T215925Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-09/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T215925Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T215925Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-09/NEON.D01.HARV.DP1.10098.001.variables.20241118T215925Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2017-09.basic.20241118T215925Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-09/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2017-09.basic.20241118T215925Z.csv",
+              "fileSizeBytes": 324904,
+              "checksum": "7351bef8d670cbcfab0b28a1893b6fc5",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-09/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46479,
+              "checksum": "ffb115c978acaa9cc7e324b081b86c21",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20170905-20170926.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-09/NEON.D01.HARV.DP1.10098.001.EML.20170905-20170926.20250129T000730Z.xml",
+              "fileSizeBytes": 126096,
+              "checksum": "6f685b360bc1163575d21c66ab5f9bb6",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T215925Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-09/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T215925Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2017-10",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T022037Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-10/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T022037Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T022037Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-10/NEON.D01.HARV.DP1.10098.001.variables.20241118T022037Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2017-10.basic.20241118T022037Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-10/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2017-10.basic.20241118T022037Z.csv",
+              "fileSizeBytes": 178092,
+              "checksum": "e3774ac79a6f14de584adb44e43075fb",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-10/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46479,
+              "checksum": "716c053e2600d1d40deea48d16c04302",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T022037Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-10/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T022037Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20171003-20171006.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-10/NEON.D01.HARV.DP1.10098.001.EML.20171003-20171006.20250129T000730Z.xml",
+              "fileSizeBytes": 126095,
+              "checksum": "f74e4193bc6866105f169471c906c506",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T022037Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2017-10/NEON.D01.HARV.DP0.10098.001.validation.20241118T022037Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2018-07",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_non-woody.2018-07.basic.20241118T052341Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-07/NEON.D01.HARV.DP1.10098.001.vst_non-woody.2018-07.basic.20241118T052341Z.csv",
+              "fileSizeBytes": 397389,
+              "checksum": "550e75d55a6177f19874d2f698305f92",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T052341Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-07/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T052341Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T052341Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-07/NEON.D01.HARV.DP0.10098.001.validation.20241118T052341Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T052341Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-07/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T052341Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20180716-20180719.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-07/NEON.D01.HARV.DP1.10098.001.EML.20180716-20180719.20250129T000730Z.xml",
+              "fileSizeBytes": 133693,
+              "checksum": "703e1adeef7a8aeebdabb0f4ec3d7497",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-07/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46662,
+              "checksum": "835f4ac78b282ada7b940d7f918a04a4",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2018-07.basic.20241118T052341Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-07/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2018-07.basic.20241118T052341Z.csv",
+              "fileSizeBytes": 8829,
+              "checksum": "da56fe79538a864a610a7d6ac58fad6b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T052341Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-07/NEON.D01.HARV.DP1.10098.001.variables.20241118T052341Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2018-09",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-09/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46479,
+              "checksum": "5d420e12a06749c7433a79adab1828db",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241202T231204Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-09/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241202T231204Z.csv",
+              "fileSizeBytes": 2751138,
+              "checksum": "c44349c724bf7ddc1d65c01633580832",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2018-09.basic.20241202T231204Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-09/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2018-09.basic.20241202T231204Z.csv",
+              "fileSizeBytes": 392778,
+              "checksum": "7f0086f1da1c95e41cf686e68d700ffd",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241202T231204Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-09/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241202T231204Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20180912-20180927.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-09/NEON.D01.HARV.DP1.10098.001.EML.20180912-20180927.20250129T000730Z.xml",
+              "fileSizeBytes": 127072,
+              "checksum": "c6a96da3656e85347e6a11e44277e271",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241202T231204Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-09/NEON.D01.HARV.DP1.10098.001.variables.20241202T231204Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241202T231204Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-09/NEON.D01.HARV.DP0.10098.001.validation.20241202T231204Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2018-10",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2018-10.basic.20241202T231453Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-10/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2018-10.basic.20241202T231453Z.csv",
+              "fileSizeBytes": 470274,
+              "checksum": "16dfd35f0dec9fb0c39e07eea0faaf75",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241202T231453Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-10/NEON.D01.HARV.DP0.10098.001.validation.20241202T231453Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2018-10.basic.20241202T231453Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-10/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2018-10.basic.20241202T231453Z.csv",
+              "fileSizeBytes": 1547,
+              "checksum": "d8e7ff0df88bee04bf44a5b712ad1768",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241202T231453Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-10/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241202T231453Z.csv",
+              "fileSizeBytes": 2751138,
+              "checksum": "c44349c724bf7ddc1d65c01633580832",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-10/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46637,
+              "checksum": "caba8202b868d9371602fddc69430040",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241202T231453Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-10/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241202T231453Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20181001-20181025.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-10/NEON.D01.HARV.DP1.10098.001.EML.20181001-20181025.20250129T000730Z.xml",
+              "fileSizeBytes": 176678,
+              "checksum": "e2796cbe5346344b0dcb71ef36daca3f",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241202T231453Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-10/NEON.D01.HARV.DP1.10098.001.variables.20241202T231453Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2018-11",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241202T231628Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-11/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241202T231628Z.csv",
+              "fileSizeBytes": 2751138,
+              "checksum": "c44349c724bf7ddc1d65c01633580832",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241202T231628Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-11/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241202T231628Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241202T231628Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-11/NEON.D01.HARV.DP1.10098.001.variables.20241202T231628Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2018-11.basic.20241202T231628Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-11/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2018-11.basic.20241202T231628Z.csv",
+              "fileSizeBytes": 1143,
+              "checksum": "e925eba7bf1f01f94ce93ddcf0025a74",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20181129-20181129.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-11/NEON.D01.HARV.DP1.10098.001.EML.20181129-20181129.20250129T000730Z.xml",
+              "fileSizeBytes": 97078,
+              "checksum": "fb631c7f365a593ce9d04cb60fa3645d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241202T231628Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-11/NEON.D01.HARV.DP0.10098.001.validation.20241202T231628Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2018-11/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46490,
+              "checksum": "093d9cfad8bde9c24d693a31de69275e",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2019-04",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-04/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46490,
+              "checksum": "2f0319d79738cde898c23eb972c32f51",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T055838Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-04/NEON.D01.HARV.DP0.10098.001.validation.20241118T055838Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T055838Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-04/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T055838Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T055838Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-04/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T055838Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T055838Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-04/NEON.D01.HARV.DP1.10098.001.variables.20241118T055838Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20190430-20190430.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-04/NEON.D01.HARV.DP1.10098.001.EML.20190430-20190430.20250129T000730Z.xml",
+              "fileSizeBytes": 99677,
+              "checksum": "71d9f30ade4b8ad83e6e90edbb0efc79",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2019-04.basic.20241118T055838Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-04/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2019-04.basic.20241118T055838Z.csv",
+              "fileSizeBytes": 2646,
+              "checksum": "8b4e1b055cb6810d3e55e1978d2c65bb",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2019-05",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20190501-20190520.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-05/NEON.D01.HARV.DP1.10098.001.EML.20190501-20190520.20250129T000730Z.xml",
+              "fileSizeBytes": 179085,
+              "checksum": "c2cc1fbd182fc2b931958b7a1d600927",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-05/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46637,
+              "checksum": "ee2e25cd0ff13d635882c040c5169c69",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T072408Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-05/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T072408Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T072408Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-05/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T072408Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T072408Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-05/NEON.D01.HARV.DP0.10098.001.validation.20241118T072408Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T072408Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-05/NEON.D01.HARV.DP1.10098.001.variables.20241118T072408Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2019-05.basic.20241118T072408Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-05/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2019-05.basic.20241118T072408Z.csv",
+              "fileSizeBytes": 2248,
+              "checksum": "bf6a50058b2c16fd0ae41061e957fbdf",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2019-05.basic.20241118T072408Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-05/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2019-05.basic.20241118T072408Z.csv",
+              "fileSizeBytes": 86137,
+              "checksum": "fd3931b3f75e361f7e88405317389d92",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2019-07",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-07/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46809,
+              "checksum": "1e7c431453cc4ac714c97e5c721d6ef9",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2019-07.basic.20241118T120632Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-07/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2019-07.basic.20241118T120632Z.csv",
+              "fileSizeBytes": 6660,
+              "checksum": "5c274eaa205cbe8affc549c4cf97435e",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20190710-20190711.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-07/NEON.D01.HARV.DP1.10098.001.EML.20190710-20190711.20250129T000730Z.xml",
+              "fileSizeBytes": 215578,
+              "checksum": "ce1ab446832c86eaaef75b9270537140",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T120632Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-07/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T120632Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T120632Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-07/NEON.D01.HARV.DP1.10098.001.variables.20241118T120632Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2019-07.basic.20241118T120632Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-07/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2019-07.basic.20241118T120632Z.csv",
+              "fileSizeBytes": 33001,
+              "checksum": "e16369a85b33e0b83f76c346b59d9288",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T120632Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-07/NEON.D01.HARV.DP0.10098.001.validation.20241118T120632Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_non-woody.2019-07.basic.20241118T120632Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-07/NEON.D01.HARV.DP1.10098.001.vst_non-woody.2019-07.basic.20241118T120632Z.csv",
+              "fileSizeBytes": 281815,
+              "checksum": "8aaed66968ef5cc412983714b2df03bd",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T120632Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-07/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T120632Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2019-08",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T112543Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-08/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T112543Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T112543Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-08/NEON.D01.HARV.DP0.10098.001.validation.20241118T112543Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T112543Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-08/NEON.D01.HARV.DP1.10098.001.variables.20241118T112543Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T112543Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-08/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T112543Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2019-08.basic.20241118T112543Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-08/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2019-08.basic.20241118T112543Z.csv",
+              "fileSizeBytes": 455404,
+              "checksum": "48e49c6e5f5f4ed3c990af4dcf13d1cc",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20190808-20190829.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-08/NEON.D01.HARV.DP1.10098.001.EML.20190808-20190829.20250129T000730Z.xml",
+              "fileSizeBytes": 126881,
+              "checksum": "7fe46752a05af59941175e2d844e900a",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-08/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46479,
+              "checksum": "0aad129d0e4bc1e09ad187e86456b0db",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2019-09",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T035539Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-09/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T035539Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-09/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46617,
+              "checksum": "e1dd09fba48cd1a8f4af4183bf40e736",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T035539Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-09/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T035539Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T035539Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-09/NEON.D01.HARV.DP1.10098.001.variables.20241118T035539Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_shrubgroup.2019-09.basic.20241118T035539Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-09/NEON.D01.HARV.DP1.10098.001.vst_shrubgroup.2019-09.basic.20241118T035539Z.csv",
+              "fileSizeBytes": 1115,
+              "checksum": "c9f65c4f1b1482951441f6b54332a39d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T035539Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-09/NEON.D01.HARV.DP0.10098.001.validation.20241118T035539Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2019-09.basic.20241118T035539Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-09/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2019-09.basic.20241118T035539Z.csv",
+              "fileSizeBytes": 255523,
+              "checksum": "2a08d7d9020236aec0ed849c67e6ef77",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20190905-20190930.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-09/NEON.D01.HARV.DP1.10098.001.EML.20190905-20190930.20250129T000730Z.xml",
+              "fileSizeBytes": 184254,
+              "checksum": "1ef13fbdbfca84a2c848cf1f07cf748d",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2019-10",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2019-10.basic.20241118T170918Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-10/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2019-10.basic.20241118T170918Z.csv",
+              "fileSizeBytes": 242009,
+              "checksum": "6af6c50666880f93f22e96cb0d112fb6",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20191003-20191014.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-10/NEON.D01.HARV.DP1.10098.001.EML.20191003-20191014.20250129T000730Z.xml",
+              "fileSizeBytes": 126880,
+              "checksum": "16610ed1195137b6f0f088ce82c97661",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-10/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46479,
+              "checksum": "526d18bbf86d228d234f10033bc6fc42",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T170918Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-10/NEON.D01.HARV.DP1.10098.001.variables.20241118T170918Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T170918Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-10/NEON.D01.HARV.DP0.10098.001.validation.20241118T170918Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T170918Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-10/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T170918Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T170918Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2019-10/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T170918Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2020-07",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T163944Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2020-07/NEON.D01.HARV.DP0.10098.001.validation.20241118T163944Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_non-woody.2020-07.basic.20241118T163944Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2020-07/NEON.D01.HARV.DP1.10098.001.vst_non-woody.2020-07.basic.20241118T163944Z.csv",
+              "fileSizeBytes": 155117,
+              "checksum": "bd1a629034d5062567d002666aeb8bb9",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2020-07.basic.20241118T163944Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2020-07/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2020-07.basic.20241118T163944Z.csv",
+              "fileSizeBytes": 2729,
+              "checksum": "c3c89a84faef2792ede540c29765c8ed",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T163944Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2020-07/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T163944Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2020-07/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46662,
+              "checksum": "b5d1916ee342c96851be4c44a6632d2d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T163944Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2020-07/NEON.D01.HARV.DP1.10098.001.variables.20241118T163944Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T163944Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2020-07/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T163944Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20200715-20200716.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2020-07/NEON.D01.HARV.DP1.10098.001.EML.20200715-20200716.20250129T000730Z.xml",
+              "fileSizeBytes": 136547,
+              "checksum": "3edae241ab64531933370638193fde16",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2020-08",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T041314Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2020-08/NEON.D01.HARV.DP1.10098.001.variables.20241118T041314Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2020-08.basic.20241118T041314Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2020-08/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2020-08.basic.20241118T041314Z.csv",
+              "fileSizeBytes": 381196,
+              "checksum": "5421ff261ab43bd86fcc10f99372febe",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T041314Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2020-08/NEON.D01.HARV.DP0.10098.001.validation.20241118T041314Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T041314Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2020-08/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T041314Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T041314Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2020-08/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T041314Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20200805-20200831.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2020-08/NEON.D01.HARV.DP1.10098.001.EML.20200805-20200831.20250129T000730Z.xml",
+              "fileSizeBytes": 181144,
+              "checksum": "85ff18cb5b00c451f64b285f2dcf6de5",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2020-08/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46637,
+              "checksum": "b0d20c6243d5f280cac5dbde495cc5c5",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2020-08.basic.20241118T041314Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2020-08/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2020-08.basic.20241118T041314Z.csv",
+              "fileSizeBytes": 6876,
+              "checksum": "de6706ca2bfeb08624f222699e9710ba",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2020-09",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T085459Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2020-09/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T085459Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T085459Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2020-09/NEON.D01.HARV.DP1.10098.001.variables.20241118T085459Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2020-09.basic.20241118T085459Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2020-09/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2020-09.basic.20241118T085459Z.csv",
+              "fileSizeBytes": 724001,
+              "checksum": "aa64596aa72a1c3a30fb1dd0c46121ba",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T085459Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2020-09/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T085459Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2020-09/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46479,
+              "checksum": "c9fa9a244128af2397972d3df1ee69b1",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T085459Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2020-09/NEON.D01.HARV.DP0.10098.001.validation.20241118T085459Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20200902-20200928.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2020-09/NEON.D01.HARV.DP1.10098.001.EML.20200902-20200928.20250129T000730Z.xml",
+              "fileSizeBytes": 128681,
+              "checksum": "70b5daac84c1f77fde7e801ef7aeb232",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2021-07",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2021-07/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46490,
+              "checksum": "f9fbbe526b77f89d91e01e542bad2bb7",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2021-07.basic.20241118T121230Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2021-07/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2021-07.basic.20241118T121230Z.csv",
+              "fileSizeBytes": 2752,
+              "checksum": "d99b4bc238ae0783186b9520d227fcc5",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T121230Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2021-07/NEON.D01.HARV.DP0.10098.001.validation.20241118T121230Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T121230Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2021-07/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T121230Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20210726-20210726.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2021-07/NEON.D01.HARV.DP1.10098.001.EML.20210726-20210726.20250129T000730Z.xml",
+              "fileSizeBytes": 99934,
+              "checksum": "8a954a9cf38f96ba6f8e26c631fbd4a5",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T121230Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2021-07/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T121230Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T121230Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2021-07/NEON.D01.HARV.DP1.10098.001.variables.20241118T121230Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2021-08",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T144239Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2021-08/NEON.D01.HARV.DP0.10098.001.validation.20241118T144239Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2021-08.basic.20241118T144239Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2021-08/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2021-08.basic.20241118T144239Z.csv",
+              "fileSizeBytes": 231994,
+              "checksum": "ab2206d4768c7f5824d8b58e699e6b2f",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T144239Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2021-08/NEON.D01.HARV.DP1.10098.001.variables.20241118T144239Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T144239Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2021-08/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T144239Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T144239Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2021-08/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T144239Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2021-08/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46479,
+              "checksum": "4f58cf10a8439c5755b4f6669778b26f",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20210809-20210831.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2021-08/NEON.D01.HARV.DP1.10098.001.EML.20210809-20210831.20250129T000730Z.xml",
+              "fileSizeBytes": 128680,
+              "checksum": "ee9c5f2eddaf2c42897f197a9a2580ef",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2021-11",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2021-11.basic.20241118T051721Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2021-11/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2021-11.basic.20241118T051721Z.csv",
+              "fileSizeBytes": 983,
+              "checksum": "9dac59797495a335d62c9b7f34de99e5",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20211108-20211108.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2021-11/NEON.D01.HARV.DP1.10098.001.EML.20211108-20211108.20250129T000730Z.xml",
+              "fileSizeBytes": 128678,
+              "checksum": "ddf24a8c91c7917212acb8bdbd4d34e7",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T051721Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2021-11/NEON.D01.HARV.DP1.10098.001.variables.20241118T051721Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2021-11/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46479,
+              "checksum": "dfce6863969bab5066cbe15a94b43a72",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T051721Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2021-11/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T051721Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T051721Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2021-11/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T051721Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T051721Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2021-11/NEON.D01.HARV.DP0.10098.001.validation.20241118T051721Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2022-07",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20220714-20220714.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-07/NEON.D01.HARV.DP1.10098.001.EML.20220714-20220714.20250129T000730Z.xml",
+              "fileSizeBytes": 101119,
+              "checksum": "16a962cc96034014694db31bf60944c6",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T120808Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-07/NEON.D01.HARV.DP1.10098.001.variables.20241118T120808Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2022-07.basic.20241118T120808Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-07/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2022-07.basic.20241118T120808Z.csv",
+              "fileSizeBytes": 2749,
+              "checksum": "66a788e06c637f56af079aaa6d407657",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T120808Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-07/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T120808Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T120808Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-07/NEON.D01.HARV.DP0.10098.001.validation.20241118T120808Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T120808Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-07/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T120808Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-07/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46490,
+              "checksum": "c7db677d434f400cda409209df7eb245",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2022-08",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T040714Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-08/NEON.D01.HARV.DP0.10098.001.validation.20241118T040714Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T040714Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-08/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T040714Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T040714Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-08/NEON.D01.HARV.DP1.10098.001.variables.20241118T040714Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20220810-20220810.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-08/NEON.D01.HARV.DP1.10098.001.EML.20220810-20220810.20250129T000730Z.xml",
+              "fileSizeBytes": 128680,
+              "checksum": "0214f387363baea2169526c001f5899e",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2022-08.basic.20241118T040714Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-08/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2022-08.basic.20241118T040714Z.csv",
+              "fileSizeBytes": 56873,
+              "checksum": "9b393cfc386a48dd4d9a3b262ebf4473",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T040714Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-08/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T040714Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-08/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46479,
+              "checksum": "f112f41954f211942a7aca8408764f82",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2022-09",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T110004Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-09/NEON.D01.HARV.DP1.10098.001.variables.20241118T110004Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T110004Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-09/NEON.D01.HARV.DP0.10098.001.validation.20241118T110004Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T110004Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-09/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T110004Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20220906-20220927.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-09/NEON.D01.HARV.DP1.10098.001.EML.20220906-20220927.20250129T000730Z.xml",
+              "fileSizeBytes": 128680,
+              "checksum": "8ad6d396c1abd3667b9cb163c3dff8dc",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T110004Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-09/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T110004Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-09/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46479,
+              "checksum": "3e8dfca4e216454cf3e176c0f4e4f1ea",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2022-09.basic.20241118T110004Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-09/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2022-09.basic.20241118T110004Z.csv",
+              "fileSizeBytes": 128285,
+              "checksum": "eb2bd779b2e07525d3899cb50d5ba58c",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2022-10",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2022-10.basic.20241118T205741Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-10/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2022-10.basic.20241118T205741Z.csv",
+              "fileSizeBytes": 45541,
+              "checksum": "1e365cd485f819b21c993a98e9560bfc",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-10/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46479,
+              "checksum": "249f5b1a7ff27620cddfaa7fd5ed6bc6",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20221006-20221006.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-10/NEON.D01.HARV.DP1.10098.001.EML.20221006-20221006.20250129T000730Z.xml",
+              "fileSizeBytes": 128680,
+              "checksum": "d968cbb6abc6c2c1e5f30cf0817e3c5e",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T205741Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-10/NEON.D01.HARV.DP1.10098.001.variables.20241118T205741Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T205741Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-10/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T205741Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T205741Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-10/NEON.D01.HARV.DP0.10098.001.validation.20241118T205741Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T205741Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2022-10/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T205741Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2023-07",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_non-woody.2023-07.basic.20241118T204333Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-07/NEON.D01.HARV.DP1.10098.001.vst_non-woody.2023-07.basic.20241118T204333Z.csv",
+              "fileSizeBytes": 24780,
+              "checksum": "c640deb8ebe56f0a9d24e46b92fa8180",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T204333Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-07/NEON.D01.HARV.DP1.10098.001.variables.20241118T204333Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20230705-20230705.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-07/NEON.D01.HARV.DP1.10098.001.EML.20230705-20230705.20250129T000730Z.xml",
+              "fileSizeBytes": 137992,
+              "checksum": "0437b27f6e19e3785b223699663c7165",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T204333Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-07/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T204333Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T204333Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-07/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T204333Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-07/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46662,
+              "checksum": "0d83232b9336c5afd4b0a01044a9a61d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2023-07.basic.20241118T204333Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-07/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2023-07.basic.20241118T204333Z.csv",
+              "fileSizeBytes": 2942,
+              "checksum": "82a3b61a7fbef9ee057be47a26a323de",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T204333Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-07/NEON.D01.HARV.DP0.10098.001.validation.20241118T204333Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2023-08",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2023-08.basic.20241118T021829Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-08/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2023-08.basic.20241118T021829Z.csv",
+              "fileSizeBytes": 240028,
+              "checksum": "ff14b410d80d192779e2e8c0684ad2f8",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T021829Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-08/NEON.D01.HARV.DP1.10098.001.variables.20241118T021829Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T021829Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-08/NEON.D01.HARV.DP0.10098.001.validation.20241118T021829Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20230807-20230828.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-08/NEON.D01.HARV.DP1.10098.001.EML.20230807-20230828.20250129T000730Z.xml",
+              "fileSizeBytes": 182116,
+              "checksum": "ecb3668497124053cfcd3ce94b8d7cb0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T021829Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-08/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T021829Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-08/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46637,
+              "checksum": "08b86ebcb4f5bc9bf1fc43fe5f6eb259",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2023-08.basic.20241118T021829Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-08/NEON.D01.HARV.DP1.10098.001.vst_perplotperyear.2023-08.basic.20241118T021829Z.csv",
+              "fileSizeBytes": 11522,
+              "checksum": "3a700c7036338f40967323ddea839462",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T021829Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-08/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T021829Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2023-09",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2023-09.basic.20241118T023200Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-09/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2023-09.basic.20241118T023200Z.csv",
+              "fileSizeBytes": 82350,
+              "checksum": "b00ed4afcfeffc387818f64e7361520c",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T023200Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-09/NEON.D01.HARV.DP1.10098.001.variables.20241118T023200Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T023200Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-09/NEON.D01.HARV.DP0.10098.001.validation.20241118T023200Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-09/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46479,
+              "checksum": "dd566da74ae73fce2f5de05f6de94036",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T023200Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-09/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T023200Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20230912-20230914.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-09/NEON.D01.HARV.DP1.10098.001.EML.20230912-20230914.20250129T000730Z.xml",
+              "fileSizeBytes": 128207,
+              "checksum": "6804c62a7d8e3539c8a3a735a647b631",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T023200Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-09/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T023200Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2023-10",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T144300Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-10/NEON.D01.HARV.DP0.10098.001.validation.20241118T144300Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T144300Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-10/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T144300Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T144300Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-10/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T144300Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2023-10.basic.20241118T144300Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-10/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2023-10.basic.20241118T144300Z.csv",
+              "fileSizeBytes": 462825,
+              "checksum": "7bf13bc9309ab316fe016fee003a8d61",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-10/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46479,
+              "checksum": "1c1bbd31920be057504b47eac50b616a",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T144300Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-10/NEON.D01.HARV.DP1.10098.001.variables.20241118T144300Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20231002-20231026.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-10/NEON.D01.HARV.DP1.10098.001.EML.20231002-20231026.20250129T000730Z.xml",
+              "fileSizeBytes": 128208,
+              "checksum": "938c45ab49c4c564e760f83632cf8fac",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2023-11",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T205435Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-11/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T205435Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T205435Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-11/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T205435Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20231101-20231122.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-11/NEON.D01.HARV.DP1.10098.001.EML.20231101-20231122.20250129T000730Z.xml",
+              "fileSizeBytes": 128207,
+              "checksum": "3d5709f1534c69ee29cc78bd0f0ddf88",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-11/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46479,
+              "checksum": "1e00132fabe966d6f407c67165037551",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2023-11.basic.20241118T205435Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-11/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2023-11.basic.20241118T205435Z.csv",
+              "fileSizeBytes": 140083,
+              "checksum": "703aed91edef97eb1d8735eda3733d67",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T205435Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-11/NEON.D01.HARV.DP1.10098.001.variables.20241118T205435Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T205435Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-11/NEON.D01.HARV.DP0.10098.001.validation.20241118T205435Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        },
+        {
+          "release": "RELEASE-2025",
+          "productCode": "DP1.10098.001",
+          "domainCode": "D01",
+          "siteCode": "HARV",
+          "month": "2023-12",
+          "packageType": "basic",
+          "generationDate": "2025-01-29T00:07:30Z",
+          "files": [
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.variables.20241118T082545Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-12/NEON.D01.HARV.DP1.10098.001.variables.20241118T082545Z.csv",
+              "fileSizeBytes": 27309,
+              "checksum": "e6d8d8d0904484603415995d5484ce96",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T082545Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-12/NEON.D01.HARV.DP0.10098.001.categoricalCodes.20241118T082545Z.csv",
+              "fileSizeBytes": 36873,
+              "checksum": "fe2dcfaa7d07ac359dc9e8af81359f2b",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2023-12.basic.20241118T082545Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-12/NEON.D01.HARV.DP1.10098.001.vst_apparentindividual.2023-12.basic.20241118T082545Z.csv",
+              "fileSizeBytes": 22264,
+              "checksum": "c95359f3d5df960a357612436ad3075c",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP0.10098.001.validation.20241118T082545Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-12/NEON.D01.HARV.DP0.10098.001.validation.20241118T082545Z.csv",
+              "fileSizeBytes": 41480,
+              "checksum": "f796ec9e1a3044a97d71c80111af0d9d",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-12/NEON.D01.HARV.DP1.10098.001.readme.20250129T000730Z.txt",
+              "fileSizeBytes": 46479,
+              "checksum": "eb30bc9aa0e9f64e763fd472a60f3601",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T082545Z.csv",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-12/NEON.D01.HARV.DP1.10098.001.vst_mappingandtagging.basic.20241118T082545Z.csv",
+              "fileSizeBytes": 2748539,
+              "checksum": "497f2142c498c40093b9636b040ec6f0",
+              "checksumAlgorithm": "MD5"
+            },
+            {
+              "fileName": "NEON.D01.HARV.DP1.10098.001.EML.20231204-20231204.20250129T000730Z.xml",
+              "downloadFileName": null,
+              "uri": "https://data.neonscience.org/api/v0/releases/RELEASE-2025/data/DP1.10098.001/HARV/2023-12/NEON.D01.HARV.DP1.10098.001.EML.20231204-20231204.20250129T000730Z.xml",
+              "fileSizeBytes": 128206,
+              "checksum": "2a9021198ecc6f5b8e94728b203853b7",
+              "checksumAlgorithm": "MD5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

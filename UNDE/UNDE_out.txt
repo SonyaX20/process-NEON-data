@@ -1,0 +1,135 @@
+*** Start processing ***
+Site code:  UNDE
+total sub dirs: 26
+*** 'vst_perplotperyear' processing done ***
+*** Plot saved to data/NEON/UNDE/UNDE_plots/UNDE_vst_perplotperyear.png ***
+No 'apparentindividual' file in data/NEON/UNDE/NEON_struct-plant/NEON.D05.UNDE.DP1.10098.001.2016-08.basic.20250129T000730Z.RELEASE-2025
+No 'apparentindividual' file in data/NEON/UNDE/NEON_struct-plant/NEON.D05.UNDE.DP1.10098.001.2019-06.basic.20250129T000730Z.RELEASE-2025
+No 'apparentindividual' file in data/NEON/UNDE/NEON_struct-plant/NEON.D05.UNDE.DP1.10098.001.2019-07.basic.20250129T000730Z.RELEASE-2025
+No 'apparentindividual' file in data/NEON/UNDE/NEON_struct-plant/NEON.D05.UNDE.DP1.10098.001.2019-08.basic.20250129T000730Z.RELEASE-2025
+No 'apparentindividual' file in data/NEON/UNDE/NEON_struct-plant/NEON.D05.UNDE.DP1.10098.001.2023-08.basic.20250129T000730Z.RELEASE-2025
+*** 'mappingandtagging' processing done ***
+*** 'apparentindividual' processing done ***
+*** Merge height and genus processing done ***
+*** Merge vst_perplotperyear processing done ***
+*** Add tree lat and lon processing done ***
+*** Drop duplicate tree lat and lon processing done ***
+*** Useful points: valid genus but some nan in height ***
+Easting range: 302546.74 m ~ 306921.37 m
+Northing range: 5120988.85 m ~ 5125654.45 m
+Area dimensions: 4374.63 m × 4665.60 m
+Adding tree points:   0%|          | 0/500 [00:00<?, ?it/s]Adding tree points: 100%|##########| 500/500 [00:00<00:00, 38693.56it/s]
+*** UNDE tree distribution map saved to data/NEON/UNDE/UNDE_plots ***
+*** Processing biomass ***
+Species without wood density(using default density):
+- Picea glauca (Moench) Voss
+- Larix laricina (Du Roi) K. Koch
+- Thuja occidentalis L.
+- Larix sp.
+- Fraxinus americana/pennsylvanica
+- Corylus cornuta Marshall
+- Alnus incana (L.) Moench ssp. rugosa (Du Roi) R.T. Clausen
+- Acer spicatum Lam.
+*** Biomass processing done ***
+=======
+*** Data processing done ***
+*** Non-NaN Count for Key Columns (all coordiantes are valid), total points: 1611 ***
+- scientificName: 1611 valid values
+- genus: 1609 valid values
+- height: 1457 valid values
+- biomass: 1454 valid values
+- stemDiameter: 1467 valid values
+=======
+*** Start generating patch tiles, total 15 genus ***
+Processing Easting:   0%|          | 0/44 [00:00<?, ?it/s]
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  25%|##5       | 11/44 [00:00<00:00, 101.82it/s]
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  50%|#####     | 22/44 [00:00<00:00, 50.62it/s] 
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  75%|#######5  | 33/44 [00:00<00:00, 66.55it/s]
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  98%|#########7| 43/44 [00:00<00:00, 74.10it/s]
+Processing Northing:   0%|          | 0/47 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting: 100%|##########| 44/44 [00:00<00:00, 70.04it/s]
+*** 47 patches saved to data/NEON/UNDE/UNDE_patch ***
+*** UNDE patch tiles saved to data/NEON/UNDE/UNDE_plots ***
+*** UNDE patch55 height, genus, and biomass saved to data/NEON/UNDE/UNDE_plots ***

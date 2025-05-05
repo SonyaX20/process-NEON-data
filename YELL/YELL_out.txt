@@ -1,0 +1,403 @@
+*** Start processing ***
+Site code:  YELL
+total sub dirs: 15
+*** 'vst_perplotperyear' processing done ***
+*** Plot saved to data/NEON/YELL/YELL_plots/YELL_vst_perplotperyear.png ***
+No 'apparentindividual' file in data/NEON/YELL/NEON_struct-plant/NEON.D12.YELL.DP1.10098.001.2018-09.basic.20250129T000730Z.RELEASE-2025
+No 'apparentindividual' file in data/NEON/YELL/NEON_struct-plant/NEON.D12.YELL.DP1.10098.001.2018-10.basic.20250129T000730Z.RELEASE-2025
+No 'apparentindividual' file in data/NEON/YELL/NEON_struct-plant/NEON.D12.YELL.DP1.10098.001.2019-06.basic.20250129T000730Z.RELEASE-2025
+*** 'mappingandtagging' processing done ***
+*** 'apparentindividual' processing done ***
+*** Merge height and genus processing done ***
+*** Merge vst_perplotperyear processing done ***
+*** Add tree lat and lon processing done ***
+*** Drop duplicate tree lat and lon processing done ***
+*** Useful points: valid genus but some nan in height ***
+Easting range: 527720.63 m ~ 547750.16 m
+Northing range: 4972443.01 m ~ 4980055.16 m
+Area dimensions: 20029.53 m × 7612.15 m
+Adding tree points:   0%|          | 0/500 [00:00<?, ?it/s]Adding tree points: 100%|##########| 500/500 [00:00<00:00, 38352.48it/s]
+*** YELL tree distribution map saved to data/NEON/YELL/YELL_plots ***
+*** Processing biomass ***
+Species without wood density(using default density):
+*** Biomass processing done ***
+=======
+*** Data processing done ***
+*** Non-NaN Count for Key Columns (all coordiantes are valid), total points: 995 ***
+- scientificName: 995 valid values
+- genus: 976 valid values
+- height: 923 valid values
+- biomass: 477 valid values
+- stemDiameter: 497 valid values
+=======
+*** Start generating patch tiles, total 11 genus ***
+Processing Easting:   0%|          | 0/183 [00:00<?, ?it/s]
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:   4%|3         | 7/183 [00:00<00:02, 67.26it/s]
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:   8%|7         | 14/183 [00:00<00:02, 66.65it/s]
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  12%|#2        | 22/183 [00:00<00:02, 70.61it/s]
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  16%|#6        | 30/183 [00:00<00:02, 73.05it/s]
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  21%|##        | 38/183 [00:00<00:01, 74.27it/s]
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  25%|##5       | 46/183 [00:00<00:01, 75.00it/s]
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  30%|##9       | 54/183 [00:00<00:01, 74.96it/s]
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  34%|###3      | 62/183 [00:00<00:01, 75.07it/s]
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  38%|###8      | 70/183 [00:00<00:01, 73.93it/s]
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  43%|####2     | 78/183 [00:01<00:01, 72.85it/s]
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  47%|####6     | 86/183 [00:01<00:01, 63.47it/s]
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  51%|#####     | 93/183 [00:01<00:01, 53.63it/s]
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  55%|#####5    | 101/183 [00:01<00:01, 58.92it/s]
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  60%|#####9    | 109/183 [00:01<00:01, 63.32it/s]
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  64%|######3   | 117/183 [00:01<00:01, 65.55it/s]
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  68%|######8   | 125/183 [00:01<00:00, 68.59it/s]
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  73%|#######2  | 133/183 [00:01<00:00, 70.32it/s]
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  77%|#######7  | 141/183 [00:02<00:00, 72.10it/s]
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  81%|########1 | 149/183 [00:02<00:00, 73.38it/s]
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  86%|########5 | 157/183 [00:02<00:00, 73.94it/s]
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  90%|######### | 165/183 [00:02<00:00, 74.67it/s]
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  95%|#########4| 173/183 [00:02<00:00, 73.16it/s]
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  99%|#########8| 181/183 [00:02<00:00, 72.89it/s]
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/74 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting: 100%|##########| 183/183 [00:02<00:00, 69.47it/s]
+*** 36 patches saved to data/NEON/YELL/YELL_patch ***
+*** YELL patch tiles saved to data/NEON/YELL/YELL_plots ***
+*** YELL patch55 height, genus, and biomass saved to data/NEON/YELL/YELL_plots ***

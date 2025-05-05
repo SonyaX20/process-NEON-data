@@ -1,0 +1,12 @@
+# Ignore all contents in GUAN/NEON_struct-plant but keep the folder
+GUAN/NEON_struct-plant/*
+!GUAN/NEON_struct-plant/
+
+# Ignore all contents in GUAN/GUAN_patch but keep the folder
+GUAN/GUAN_patch/*
+!GUAN/GUAN_patch/
+
+# Ignore specific files
+Untitled.ipynb
+工作总结.md
+notice.md

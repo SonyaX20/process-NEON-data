@@ -1,0 +1,128 @@
+*** Start processing ***
+Site code:  BART
+total sub dirs: 27
+*** 'vst_perplotperyear' processing done ***
+No 'apparentindividual' file in data/NEON/BART/NEON_struct-plant/NEON.D01.BART.DP1.10098.001.2014-08.basic.20250129T000730Z.RELEASE-2025
+No 'apparentindividual' file in data/NEON/BART/NEON_struct-plant/NEON.D01.BART.DP1.10098.001.2018-07.basic.20250129T000730Z.RELEASE-2025
+No 'apparentindividual' file in data/NEON/BART/NEON_struct-plant/NEON.D01.BART.DP1.10098.001.2019-07.basic.20250129T000730Z.RELEASE-2025
+No 'apparentindividual' file in data/NEON/BART/NEON_struct-plant/NEON.D01.BART.DP1.10098.001.2021-07.basic.20250129T000730Z.RELEASE-2025
+No 'apparentindividual' file in data/NEON/BART/NEON_struct-plant/NEON.D01.BART.DP1.10098.001.2022-07.basic.20250129T000730Z.RELEASE-2025
+*** 'mappingandtagging' processing done ***
+*** 'apparentindividual' processing done ***
+*** Merge height and genus processing done ***
+*** Merge vst_perplotperyear processing done ***
+*** Add tree lat and lon processing done ***
+*** Drop duplicate tree lat and lon processing done ***
+*** Useful points: valid genus but some nan in height ***
+Easting range: 314424.89 m ~ 318850.75 m
+Northing range: 4878260.43 m ~ 4882127.60 m
+Area dimensions: 4425.85 m × 3867.17 m
+Adding tree points:   0%|          | 0/500 [00:00<?, ?it/s]Adding tree points: 100%|##########| 500/500 [00:00<00:00, 37588.08it/s]
+*** BART tree distribution map saved to data/NEON/BART/BART_plots ***
+*** Processing biomass ***
+Species without wood density(using default density):
+*** Biomass processing done ***
+=======
+*** Data processing done ***
+*** Non-NaN Count for Key Columns (all coordiantes are valid), total points: 2025 ***
+- scientificName: 2025 valid values
+- genus: 2022 valid values
+- height: 1850 valid values
+- biomass: 1850 valid values
+- stemDiameter: 1857 valid values
+=======
+*** Start generating patch tiles, total 15 genus ***
+Processing Easting:   0%|          | 0/45 [00:00<?, ?it/s]
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  18%|#7        | 8/45 [00:00<00:00, 79.22it/s]
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  40%|####      | 18/45 [00:00<00:00, 88.93it/s]
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  60%|######    | 27/45 [00:00<00:00, 58.23it/s]
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting:  78%|#######7  | 35/45 [00:00<00:00, 61.79it/s]
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [A
+Processing Northing:   0%|          | 0/39 [00:00<?, ?it/s][A
+                                                           [AProcessing Easting: 100%|##########| 45/45 [00:00<00:00, 70.18it/s]Processing Easting: 100%|##########| 45/45 [00:00<00:00, 68.86it/s]
+*** 64 patches saved to data/NEON/BART/BART_patch ***
+*** BART patch tiles saved to data/NEON/BART/BART_plots ***
+*** BART patch55 height, genus, and biomass saved to data/NEON/BART/BART_plots ***
