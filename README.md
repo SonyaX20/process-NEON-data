@@ -4,7 +4,7 @@
 
 ## 1️⃣ Dataset Content & Data Sources
 
-> The work focuses on **NEON (National Ecological Observatory Network)** multi-site (e.g., HARV, UNDE, YELL, GUAN, BART) forest plot vegetation structure data processing, spatialization, visualization, and aboveground biomass estimation.
+> **NEON (National Ecological Observatory Network)** multi-site (e.g., HARV, UNDE, YELL, GUAN, BART) forest vegetation structures.
 > 
 > **Main data sources:**
 > - Official NEON data products (e.g., DP1.10098.001)
@@ -98,7 +98,7 @@
 
 ---
 
-## 4️⃣ Notice!
+## 4️⃣ Notes
 
 > ⚠️ **Wood density matching:** Some species lack density info in the database; supplement manually or use default. Consider improving the database.
 > 
@@ -119,7 +119,3 @@
 - 🛰️ **InSAR data alignment:** See README for Sentinel-1 data acquisition and processing; align radar DEM/deformation with patch data for multi-source analysis.
 - 🌱 **Attribute expansion:** Add diversity, canopy structure, and other ecological indicators.
 - 🤖 **Automation & batch processing:** Parameterize scripts for command-line batch processing of multiple sites.
-
----
-
-> 💡 For detailed code explanations, parameter descriptions, or patch-InSAR alignment scripts, feel free to ask! 
