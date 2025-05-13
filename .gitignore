@@ -1,0 +1,8 @@
+coco1024/*/*
+!coco1024/
+!coco1024/annotations/
+!coco1024/test2023/
+!coco1024/test2023/Test-Set-1/
+!coco1024/test2023/Test-Set-2/
+!coco1024/train2023/
+!coco1024/val2023/
